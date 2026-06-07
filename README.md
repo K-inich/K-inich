@@ -8,16 +8,16 @@
 
 <div align="center">
 
-   $\color{#545123}{\text{Close Friends  :}}$
+   $\color{#2e5866}{\text{Close Friends  :}}$
 
 
 <div align="center">
  
-   $\color{#545123}{\text{   ~     loki   ~    ࣪𖤐    ~    Zuu       ~  }}$
+   $\color{#2e5866}{\text{   ~     loki   ~    ࣪𖤐    ~    Zuu       ~  }}$
 
 <div align="center">
  
-   $\color{#545123}{\text{   ~      Ramen     ~     ࣪𖤐     ~    Lily        ~}}$
+   $\color{#2e5866}{\text{   ~      Ramen     ~     ࣪𖤐     ~    Lily        ~}}$
    
 <div align="center">
   
@@ -27,9 +27,9 @@
 <div align="center">
 
 
-   $\color{#545123}{\text{   ~  Names   To  Call   Me   ~ }}$
+   $\color{#2e5866}{\text{   ~  Names   To  Call   Me   ~ }}$
 
 <div align="center">
 
 
-   $\color{#545123}{\text{   ~ Tofu     ,    Sushi   ,   Mochi   ~ }}$
+   $\color{#2e5866}{\text{   ~ Tofu     ,    Sushi   ,   Mochi   ~ }}$
