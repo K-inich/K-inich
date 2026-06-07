@@ -16,11 +16,11 @@
 
 <div align="center">
  
-   $\color{#2e5866}{\text{   ~     loki   ~    ࣪𖤐    ~    Zuu       ~  }}$
+   $\color{#2e5866}{\text{   ~    ˡᵒᵏⁱ    ~     ᶻᵘᵘ      ~  }}$
 
 <div align="center">
  
-   $\color{#2e5866}{\text{   ~      Ramen     ~     ࣪𖤐     ~    Lily        ~}}$
+   $\color{#2e5866}{\text{   ~    ᴿᵃᵐᵉⁿ       ~    ᴸⁱˡʸ       ~}}$
    
 <div align="center">
   
