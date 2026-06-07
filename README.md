@@ -23,3 +23,13 @@
   
 [♡𝒲𝒾𝒻𝑒♡](https://github.com/xzuzui) ִ-  [♡𝒲𝒾𝒻𝑒♡𝒶𝓉𝒶♡](https://xxzu.atabook.org/)
 
+
+<div align="center">
+
+
+   $\color{#545123}{\text{   ~  Names   To  Call   Me   ~ }}$
+
+<div align="center">
+
+
+   $\color{#545123}{\text{   ~ Tofu     ,    Sushi   ,   Mochi   ~ }}$
