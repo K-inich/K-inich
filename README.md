@@ -22,3 +22,5 @@
 <div align="center">
   
 [♡𝒲𝒾𝒻𝑒♡](https://github.com/xzuzui) ִ-  [♡𝒲𝒾𝒻𝑒♡𝒶𝓉𝒶♡](https://xxzu.atabook.org/)
+
+<img width="283" height="320" alt="ezgif-30af7b0b7ae4a8e8" src="https://github.com/user-attachments/assets/cc505082-7af8-4d07-b2b4-32a3547457b6" />
