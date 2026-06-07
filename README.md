@@ -1,1 +1,16 @@
-<img width="826" height="811" alt="image" src="https://github.com/user-attachments/assets/afd59b5c-242a-462d-9cd7-49e018f9dca4" />
+<div align="center">
+  
+<img width="352" height="381" alt="image" src="https://github.com/user-attachments/assets/32e08fff-a9d3-4777-808d-d8b26d71afd3" />
+
+<div align="center">
+
+   $\color{#c0bfbf}{\text{Close Friends  :}}$
+
+
+<div align="center">
+ 
+   $\color{#c0bfbf}{\text{   ~     loki   ~    ࣪𖤐    ~    Zuu       ~  }}$
+
+<div align="center">
+ 
+   $\color{#c0bfbf}{\text{   ~      Ramen     ~     ࣪𖤐     ~    Lily        ~}}$
