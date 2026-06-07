@@ -8,16 +8,16 @@
 
 <div align="center">
 
-   $\color{#c0bfbf}{\text{Close Friends  :}}$
+   $\color{#545123}{\text{Close Friends  :}}$
 
 
 <div align="center">
  
-   $\color{#c0bfbf}{\text{   ~     loki   ~    ࣪𖤐    ~    Zuu       ~  }}$
+   $\color{#545123}{\text{   ~     loki   ~    ࣪𖤐    ~    Zuu       ~  }}$
 
 <div align="center">
  
-   $\color{#c0bfbf}{\text{   ~      Ramen     ~     ࣪𖤐     ~    Lily        ~}}$
+   $\color{#545123}{\text{   ~      Ramen     ~     ࣪𖤐     ~    Lily        ~}}$
    
 <div align="center">
   
